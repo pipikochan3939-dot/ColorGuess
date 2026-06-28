@@ -9,7 +9,7 @@ React Nativeを使用して制作した色当てゲームです。<br><br>
 
 ## 🟡実際の操作動画
 https://www.youtube.com/shorts/aNj4UogB3sk
-
+<br>
 ## 使用技術
 - React Native
 - JavaScript
