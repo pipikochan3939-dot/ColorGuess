@@ -2,6 +2,8 @@
 
 ## 概要
 React Nativeを使用して制作した色当てゲームです。
+<img width="1170" height="2532" alt="IMG_8830" src="https://github.com/user-attachments/assets/78db5d0b-d408-4848-a88b-818da0961353" />
+
 
 ## 使用技術
 - React Native
@@ -23,4 +25,5 @@ React Nativeを使用して制作した色当てゲームです。
 （ここに動画）
 
 ## スクリーンショット
-（ここに画像）
+
+
