@@ -23,8 +23,4 @@ React Nativeを使用して制作した色当てゲームです。<br><br>
 - ボタンを押したときの心地よい操作感を追求
 
 ## デモ動画
-（ここに動画）
-
-## スクリーンショット
-
-
+https://www.youtube.com/shorts/aNj4UogB3sk
